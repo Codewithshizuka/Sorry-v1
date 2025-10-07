@@ -22,5 +22,3 @@ You can customize it with your own letter, photos, and even add a background son
 ---
 
 ---
-
-_Made with 💖 by Anuj_
